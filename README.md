@@ -8,7 +8,7 @@
 - DTO & Validation
 - Global Exception Handling
 
-## 🛠 Tech Stack
+## Tech Stack
 - Java
 - Spring Boot
 - Spring Security
